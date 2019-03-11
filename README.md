@@ -1,1 +1,1 @@
-# DayDrinking-ReactNative
+#ReactNative
